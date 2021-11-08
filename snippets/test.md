@@ -1,1 +1,5 @@
-<%- include head.html -%>
+---
+title: "Hello World"
+author: SRWeaver
+---
+Test
